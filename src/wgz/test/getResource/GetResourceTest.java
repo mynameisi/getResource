@@ -23,7 +23,7 @@ public class GetResourceTest {
 		 * the class path by : invoking the getResource(filename) method on the
 		 * meta object. --<<Introdcution to Java Programming 8th>>
 		 */
-		Class metaObject = GetResourceTest.class;
+		Class<GetResourceTest> metaObject = GetResourceTest.class;
 
 		/*
 		 * how to access resource: 3 getResource searches for the current
