@@ -17,7 +17,7 @@ public class GetResourceTest {
 		 * invoking the getResource(filename) method on the meta object. 
 		 * --<<Introdcution to Java Programming 8th>>
 		 */
-		Class<GetResourceTest> metaObject=GetResourceTest.class;
+		Class metaObject=GetResourceTest.class;
 		
 		/*
 		 * how to access resource: 3
