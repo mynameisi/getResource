@@ -1,6 +1,5 @@
-jce
+getResource
 ===
+这个项目详细分析了如何通过getResource方法：
 
-jce stands for Java Code Examples
-
-This project is a dynamic web project aiming at practicing all kinds of java theories
+通过相对路径获得资源
